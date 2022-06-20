@@ -1,4 +1,4 @@
-# Desafio de Projeto Git/GitHub - DIO :wave:
+# Desafio de Projeto Git/GitHub - DIO
 Repositório criado para o Desafio de Projeto.
 
 ##	:pushpin: Links Úteis 
