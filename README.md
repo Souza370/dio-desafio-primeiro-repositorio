@@ -7,6 +7,9 @@ Repositório criado para o Desafio de Projeto.
 
 [Download Git](https://git-scm.com/downloads)
 
+[Criar conta GitHub](https://github.com/)
+
+
 
 
 
