@@ -1,5 +1,5 @@
 # Desafio de Projeto Git/GitHub - DIO
-Repositório criado para o Desafio de Projeto.
+Primeiro repositório criado na plataforma, entendo como funciona Markdown, github e git.
 
 ##	:pushpin: Links Úteis 
 
